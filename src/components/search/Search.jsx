@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { AsyncPaginate } from 'react-select-async-paginate';
+import { AsyncPaginate } from 'react-select-async-paginate'; //Search input
 import { GEO_API_URL, geoApiOptions } from '../../api'; // API
 
 const Search = ({onSearchChange}) => {
