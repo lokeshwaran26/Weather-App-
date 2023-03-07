@@ -1,9 +1,8 @@
 import './App.css';
-import Search from './components/search/Search';
+import Search from './components/search/Search'; //search 
 
 const  App = ()=> {
 
-  
   const handleOnSearchChange = (searchData) =>{
     console.log(searchData)
   }
