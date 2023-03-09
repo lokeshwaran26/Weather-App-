@@ -49,11 +49,13 @@
     justify-content: space-between;
 }
 
-.parameter-label{
+.parameter-label{  
     text-align: left;
     font-weight: 400;
     font-size: 12px;
 }
+
+
 
 .parameter-value{
     text-align: right;

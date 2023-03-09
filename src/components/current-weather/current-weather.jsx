@@ -2,6 +2,7 @@ import "./current-weather.css";
 import React from "react";
 
 const CurrentWeather = () => {
+  //Weather UI
   return (
     <div className="weather">
       <div className="top">
