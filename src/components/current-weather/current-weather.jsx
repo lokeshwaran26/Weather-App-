@@ -1,4 +1,4 @@
-import "./current-weather.css";
+import "./current-weather.css"; //weather CSS
 import React from "react";
 
 const CurrentWeather = () => {
