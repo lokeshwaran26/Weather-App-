@@ -3,6 +3,7 @@ import React from "react";
 
 const CurrentWeather = () => {
   //Weather UI
+  //CurrentWeather jsx code
   return (
     <div className="weather">
       <div className="top">
